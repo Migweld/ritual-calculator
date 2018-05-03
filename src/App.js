@@ -9,7 +9,6 @@ class App extends Component {
   };
 
   changeRealm = realm => {
-    console.log(realm.target.name);
     this.setState({
       realm: realm.target.name,
     });
