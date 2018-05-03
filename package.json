@@ -2,7 +2,7 @@
   "name": "ritual-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://migweld.github.io/ritual-calculator",
+  "homepage": "https://migweld.github.io/ritual-calculator/build",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
